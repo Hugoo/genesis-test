@@ -1,3 +1,3 @@
-Fetch from commit [`9bf4599`](https://github.com/lukso-network/network-configs/commit/9bf459922eef6237434d61428f94d46ece2e3cb0)
+Fetch from commit [`1d99010`](https://github.com/lukso-network/network-configs/tree/1d9901027f11c464dfce4bf2d86848bd1d511f86)
 
-On 14th May 2023 - 23:15 CET
+On 15th May 2023 - 16:38 CET

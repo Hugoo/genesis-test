@@ -2,7 +2,7 @@
 
 Repo used to test and verify LUKSO genesis files:
 
-Tested on commit [`9bf4599`](https://github.com/lukso-network/network-configs/commit/9bf459922eef6237434d61428f94d46ece2e3cb0)
+Tested on commit [`1d99010`](https://github.com/lukso-network/network-configs/tree/1d9901027f11c464dfce4bf2d86848bd1d511f86)
 
 ## Tests
 
